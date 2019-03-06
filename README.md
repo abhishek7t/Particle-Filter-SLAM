@@ -5,7 +5,7 @@ In this project, the structure of mapping and localization in an indoor environm
 * Python 2.7, OpenCV 3.2
 
 ### THOR
-<img src="./docs/robot.png" alt="drawing" width="300"/>
+<img src="./docs/robot.png" alt="drawing" width="400"/>
 
 Challenge Description
 ---------------------
@@ -28,8 +28,8 @@ There are 2 main performance improvement tricks that I used to improve the outco
 # Results
 
 ### Test results
-<img src="Results/train0.png" width="250"> | <img src="Results/train1.png" width="250">
-<img src="Results/train2.png" width="250"> | <img src="Results/train3.png" width="250">
+<img src="Results/train0.png" width="240"> <img src="Results/train1.png" width="240">
+<img src="Results/train2.png" width="240"> <img src="Results/train3.png" width="240">
 
 ### Test results
 <img src="./Results/test.png" alt="drawing" width="250"/>
