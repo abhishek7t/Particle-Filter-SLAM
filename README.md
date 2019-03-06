@@ -5,7 +5,7 @@ In this project, the structure of mapping and localization in an indoor environm
 * Python 2.7, OpenCV 3.2
 
 ### THOR
-<img src=".docs/robot.jpg" alt="drawing" width="1500"/>
+<img src="./docs/robot.jpg" alt="drawing" width="1500"/>
 
 Challenge Description
 ---------------------
@@ -31,7 +31,7 @@ Train results | Train results
 <img src="Results/train0.png" width="1500"> | <img src="Results/train1.png" width="1500">
 <img src="Results/train2.png" width="1500"> | <img src="Results/train3.png" width="1500">
 
-<img src="drawing.jpg" alt="drawing" width="1500"/>
+<img src="./Results/test.png" alt="drawing" width="1500"/>
 
 # References
 * [Robust Monte Carlo Localization for Mobile Robots](http://robots.stanford.edu/papers/thrun.robust-mcl.pdf)
