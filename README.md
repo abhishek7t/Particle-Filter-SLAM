@@ -8,8 +8,8 @@ In this project, the structure of mapping and localization in an indoor environm
 <img src="./docs/robot.png" alt="drawing" width="400"/>
 
 ### Texture Map Data (Optional)
-After cloning the repo, download from link -> [Drive](https://goo.gl/9xFu6J)
-Save to `Proj4_2018_Train_rgb`
+* After cloning the repo, download from link -> [Drive](https://goo.gl/9xFu6J)
+* Save to `Proj4_2018_Train_rgb`
 
 Challenge Description
 ---------------------
