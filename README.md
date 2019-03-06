@@ -20,19 +20,19 @@ Challenge Description
 There are 2 main performance improvement tricks that I used to improve the outcome of the SLAM:
 
 * Adding noise to the pose information appropriately: larger noise causes large gaps in the path, whereas smaller noise causes frequent change in direction.
-![alt text](./Results/ln_sn.png)
+![](./Results/ln_sn.png)
 
 * Adding random positions to each particle during the calculation of correlation value, and select maximum value of particle as new updated position: accurate mapping.
-![alt text](./Results/rand_pos.png)
+![](./Results/rand_pos.png)
 
 # Results
 
-Train results | Train results 
------------ | -----------
-<img src="Results/train0.png" width="1500"> | <img src="Results/train1.png" width="1500">
-<img src="Results/train2.png" width="1500"> | <img src="Results/train3.png" width="1500">
+### Test results
+<img src="Results/train0.png" width="200"> | <img src="Results/train1.png" width="200">
+<img src="Results/train2.png" width="200"> | <img src="Results/train3.png" width="200">
 
-<img src="./Results/test.png" alt="drawing" width="500"/>
+### Test results
+<img src="./Results/test.png" alt="drawing" width="200"/>
 
 # References
 * [Robust Monte Carlo Localization for Mobile Robots](http://robots.stanford.edu/papers/thrun.robust-mcl.pdf)
