@@ -28,8 +28,8 @@ There are 2 main performance improvement tricks that I used to improve the outco
 # Results
 
 ### Test results
-<img src="Results/train0.png" width="240"> <img src="Results/train1.png" width="240">
-<img src="Results/train2.png" width="240"> <img src="Results/train3.png" width="240">
+<img src="Results/train0.png" width="220"> <img src="Results/train1.png" width="220">
+<img src="Results/train2.png" width="220"> <img src="Results/train3.png" width="220">
 
 ### Test results
 <img src="./Results/test.png" alt="drawing" width="250"/>
