@@ -20,6 +20,7 @@ Challenge Description
 There are 2 main performance improvement tricks that I used to improve the outcome of the SLAM:
 
 * Adding noise to the pose information appropriately: larger noise causes large gaps in the path, whereas smaller noise causes frequent change in direction. 
+
 ![](./Results/ln_sn.png)
 
 * Adding random positions to each particle during the calculation of correlation value, and select maximum value of particle as new updated position: accurate mapping.
